@@ -40,3 +40,10 @@ reporting logic, and modular design.
 
 ## 📁 Project Structure
 
+xpense_tracker/
+│
+├── main.py # Application logic and menu
+├── storage.py # JSON persistence
+├── reports.py # Aggregation and reports
+└── README.md
+
